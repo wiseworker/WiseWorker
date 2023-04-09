@@ -38,5 +38,29 @@ nav:
     - Home: 'index.md'
     - '快速开始':
         - '开始一个Jupyter': 'quickstart.md'
-    - About:
-        - '版权': 'license.md'
+        - '开始一个VsCode': 'quickstart.md'
+    - '数据集':
+        - '数据集': 'dataset.md'
+    - '模型开发':
+        - '模型开发': 'expriment.md'
+        - '导出模型': 'exportModel.md'
+        - '训练任务': 'commitTask.md'
+        - '监控': 'monitor.md'
+    - '模型训练':
+        - '模型训练': 'task.md'
+        - '复制训练任务': 'task.md'
+        - '导出模型': 'exportModel.md'
+        - 'WebSsh': 'WebSsh.md'
+        - '监控': 'monitor.md'
+    - '模型管理':
+        - '模型管理': 'model.md'
+    - '模型部署':
+        - '模型部署': 'deploy.md'
+        - '监控': 'monitor.md'
+    - '我的环境':
+        - '我的环境': 'image.md'
+    - 'AI市场':
+        - 'AI市场': 'market.md'
+    - SDK:
+        - 'SDK': 'sdk.md'
+    - 集群管理: 'console.md'
